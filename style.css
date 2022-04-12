@@ -25,3 +25,8 @@ article {
   text-align: center;
   padding: 1em
 }
+
+section {
+ padding-left: 10%;
+ padding-right: 10%
+}
